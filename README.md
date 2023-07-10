@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamidnasr14
-- 👀 I’m interested in VHDL algorithm and neural network model based on python
-- 🌱 I’m currently learning micropython and machine learning
+- 👀 I’m interested in VHDL algorithm and neural network model  in Hardware.
+- 🌱 I’m currently working on AM, RF Transducers.
 - 💞️ I’m looking to collaborate on a VLSI project
 - 📫 How to reach me --> emailaddr:hamidnasr14.hn@gmail.com
 
